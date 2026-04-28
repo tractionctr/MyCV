@@ -10,8 +10,18 @@ body {
     max-width: 900px;
     margin: 40px auto;
     background: white;
-    padding: 30px;
-    border-radius: 10px;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+.tag {
+    transition: 0.2s;
+}
+
+.tag:hover {
+    transform: scale(1.05);
+    background: #d6d6d6;
 }
 
 .header {
@@ -26,15 +36,6 @@ h1, h2 {
 
 .section {
     margin-bottom: 25px;
-}
-
-.tag {
-    display: inline-block;
-    background: #e0e0e0;
-    padding: 5px 10px;
-    border-radius: 5px;
-    margin: 3px;
-    font-size: 14px;
 }
 
 a {
