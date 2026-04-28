@@ -13,4 +13,4 @@ This site introduces Jaden Majavia as an indie game developer based in Cape Town
 Created as part of a web development practical task to demonstrate basic frontend development and GitHub Pages deployment.
 
 ## Live Site
-https://YOUR-USERNAME.github.io/YOUR-REPO-NAME
+https://tractionctr.github.io/MyCV
